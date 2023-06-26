@@ -1,4 +1,4 @@
-# Colorsinpdf
+# ColorsInPDFPages
 
 The script provided is a Python program that analyses a PDF file to find pages that contain colours other than black in both text and images. See below for detailed information on how the script works.
 
