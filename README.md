@@ -9,6 +9,8 @@ The script requires the following Python library:
 
 Make sure you have installed all the necessary dependencies before running the script.
 
+Install using: _**pip install PyMuPDF**_
+
 ## Functions
 ### has_color(page)
 This function checks whether a specific page contains colors other than black in both text and images. It returns _True_ if colors other than black are found, otherwise it returns _False_.
